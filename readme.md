@@ -11,5 +11,5 @@ Contact: [[info@tracemail.eu]](mailto:info@tracemail.eu)
 
 ## Screenshot:
 
-![alt text](https://github.com/gaborgulyas/tracemail/demo.png "TracEmail screenshot")
+![alt text](https://github.com/gaborgulyas/tracemail/blob/master/demo.png "TracEmail screenshot")
 
