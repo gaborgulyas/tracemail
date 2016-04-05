@@ -1,0 +1,6 @@
+content     etv    content/
+
+overlay chrome://messenger/content/messenger.xul chrome://etv/content/thunderbird_overlay.xul
+overlay chrome://browser/content/browser.xul chrome://etv/content/firefox_overlay.xul
+
+skin	etv	classic/1.0	skin/

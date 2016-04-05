@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="chrome://global/skin/" type="text/css"?>
+
+<overlay xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+
+<script type="application/x-javascript" src="chrome://etv/content/ip.js"/>
+<script type="application/x-javascript" src="chrome://etv/content/tracerouter.js"/>
+<script type="application/x-javascript" src="chrome://etv/content/etv.js"/>
+<script type="application/x-javascript" src="chrome://etv/content/thunderbird.js"/>
+
+	<hbox id="expandedHeadersBottomBox">
+		<vbox>
+                <button id="etvVisualizePath" style=" margin-left:2px; margin-right:2px;" class="msgHeaderView-button" label="Path Visualize" onclick="etv_tc.visualize();"/>
+    </vbox>
+	</hbox>
+</overlay>
