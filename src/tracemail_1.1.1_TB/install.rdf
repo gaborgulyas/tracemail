@@ -8,8 +8,12 @@
 		<em:version>1.1.1</em:version>
 		<em:type>2</em:type>
 		<em:creator>Tamas Besenyei</em:creator>
+		<em:developer>Tamás Paulik</em:developer>
+		<em:developer>Károly Boda</em:developer>
+		<em:developer>Zoltán Kovács</em:developer>
+		<em:contributor>Gábor György Gulyás</em:contributor>
 		<em:description>Visualizes the estimation of the path of your email message on an interactive map.</em:description>
-		<em:homepageURL>https://tracemail.eu</em:homepageURL>
+		<em:homepageURL>https://tracemail.eu/</em:homepageURL>
 		<em:optionsURL>chrome://epvp/content/options.xul</em:optionsURL>
 		<em:iconURL>chrome://epvp/skin/icon32p.png</em:iconURL>
 		<em:icon64URL>chrome://epvp/skin/icon64p.png</em:icon64URL>
