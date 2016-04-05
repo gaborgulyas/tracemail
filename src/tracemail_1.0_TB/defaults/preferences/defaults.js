@@ -1,2 +1,0 @@
-pref("extensions.emailtraceroutevisualizer.promotext", "Email Privacy Visualization Project: discover who might have an extra copy of your email! \nDownload this small tool from the webpage of Privacy International: http://epvp.pet-portal.eu");
-pref("extensions.emailtraceroutevisualizer.epvpheader", true);
