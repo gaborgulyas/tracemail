@@ -6,7 +6,7 @@ Learn more about the project here: [[https://tracemail.eu]](https://tracemail.eu
 
 Feel free to contribute to the source code!
 
-Contact: [[info@tracemail.eu]](info@tracemail.eu)
+Contact: [[info@tracemail.eu]](mailto:info@tracemail.eu)
 
 
 ## Screenshot:
